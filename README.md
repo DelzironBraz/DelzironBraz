@@ -1,16 +1,13 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw1m9aL27IUdVgEUIxdI2CRC&ust=1674971016649000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD21LXH6fwCFQAAAAAdAAAAABAR)
 
 <h1 align="center">Hello 👋, I'm Delziron Braz</h1>
 <h3 align="center">A Front-End Developer and a future Software Engineer</h3>
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 - 🌱 I’m currently learning **React, Tailwind, Ruby on Rails and Qwik**
 
 - 📫 How to reach me **delziron.braz@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
