@@ -1,7 +1,10 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fcomputer-programmer-nerd-people-web-page&psig=AOvVaw1m9aL27IUdVgEUIxdI2CRC&ust=1674971016649000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD21LXH6fwCFQAAAAAdAAAAABBB" width="480" height="360">
+![Alt Text](https://miro.medium.com/max/1400/0*0O5n9x6pzlJ5qLkC.gif)
 
 <h1 align="center">Hello 👋, I'm Delziron Braz</h1>
 <h3 align="center">A Front-End Developer and a future Software Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🔭 I’m currently working on **how was your day Page**
 
 - 🌱 I’m currently learning **React, Tailwind, Ruby on Rails and Qwik**
 
