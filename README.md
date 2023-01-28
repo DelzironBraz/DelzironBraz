@@ -10,6 +10,12 @@
 
 - 📫 How to reach me **delziron.braz@hotmail.com**
 
+### A little about myself
+
+
+</p>
+<p align=justify> &emsp;&emsp; 
+  I am currently a software engineering graduate, as well as an intern at AyaBese Tecnologia. I started programming in high school and I loved the    feeling of turning an idea into reality and developing solutions to problems that appeared.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
