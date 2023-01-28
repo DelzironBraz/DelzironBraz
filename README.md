@@ -1,4 +1,4 @@
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw1m9aL27IUdVgEUIxdI2CRC&ust=1674971016649000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD21LXH6fwCFQAAAAAdAAAAABAR)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprograming&psig=AOvVaw1m9aL27IUdVgEUIxdI2CRC&ust=1674971016649000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD21LXH6fwCFQAAAAAdAAAAABAR" width="480" height="360">
 
 <h1 align="center">Hello 👋, I'm Delziron Braz</h1>
 <h3 align="center">A Front-End Developer and a future Software Engineer</h3>
