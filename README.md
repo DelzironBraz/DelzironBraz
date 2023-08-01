@@ -15,7 +15,7 @@
 
 </p>
 <p align=justify> &emsp;&emsp; 
-  I am currently a software engineering graduate, as well as an intern at AyaBese Tecnologia. I started programming in high school and I loved the    feeling of turning an idea into reality and developing solutions to problems that appeared.
+  I am a Software Engineering student at the University from Brasilia, as I am also a developer with experience in web developer. I'm looking for an opportunity to contribute with my experience in challenging and dynamic projects, working in collaboration with a team to achieve excellent results.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
