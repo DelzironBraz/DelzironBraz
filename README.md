@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Softtor**
 
-- 🌱 I’m currently learning **NodeJS, Java Spring and FastApi**
+- 🌱 I’m currently learning **NodeJS, VueJs, NextJs and Laravel**
 
 - 📫 How to reach me **delziron.braz@hotmail.com**
 
