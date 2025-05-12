@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Delziron Braz</h1>
 <h3 align="center">FullStack Developer and a future Software Engineer</h3>
 
-- 🔭 I’m currently working on **Softtor**
-
-- 🌱 I’m currently learning **NodeJS, VueJs, NextJs and Laravel**
+- 🌱 I’m currently learning **Laravel, AWS and NestJS**
 
 - 📫 How to reach me **delziron.braz@hotmail.com**
 
